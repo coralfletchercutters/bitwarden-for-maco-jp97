@@ -1,4 +1,4 @@
-
+Get the ultimate Bitwarden for macOS addon with Bitwarden for macOS instant Addon: encryption & junk-file-cleanup. Featuring encryption and junk-file-cleanup, it's the best choice
 
 
 
